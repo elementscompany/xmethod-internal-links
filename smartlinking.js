@@ -138,7 +138,27 @@
     'gpt business ideas': {de: '/blog/best-business-ideas-based-on-gpt-3-5-4', en: '/en/blog/best-business-ideas-based-on-gpt-3-5-4'},
     
     // Web Design Agencies
-    'webdesign agencies': {de: '/blog/top-webdesign-agenturen', en: '/en/blog/top-webdesign-agenturen'}
+    'webdesign agencies': {de: '/blog/top-webdesign-agenturen', en: '/en/blog/top-webdesign-agenturen'},
+
+    // Продукты и платформы No-Code/Low-Code
+    'flutterflow': {de: '/blog/die-12-besten-agenturen-fur-die-flutterflow-app-entwicklung', en: '/en/blog/die-12-besten-agenturen-fur-die-flutterflow-app-entwicklung'},
+    'bubble.io': {de: '/blog/is-bubble-io-gdpr-compliant', en: '/en/blog/is-bubble-io-gdpr-compliant'},
+    'bubble': {de: '/blog/flutterflow-vs-bubble-eine-ausfuhrliche-analyse-der-vor--und-nachteile-sowie-anwendungsbeispiele', en: '/en/blog/flutterflow-vs-bubble-eine-ausfuhrliche-analyse-der-vor--und-nachteile-sowie-anwendungsbeispiele'},
+    'webflow': {de: '/blog/die-13-besten-webflow-agenturen', en: '/en/blog/die-13-besten-webflow-agenturen-in-berlin'},
+    'framer': {de: '/blog/framer-vs-webflow-welches-tool-ist-besser-fur-webdesign', en: '/en/blog/framer-vs-webflow-which-tool-is-better-for-web-design'},
+    'wordpress': {de: '/blog/webflow-vs-wordpress-eine-eingehende-analyse-der-vor--und-nachteile-in-der-website-entwicklung', en: '/en/blog/webflow-vs-wordpress-eine-eingehende-analyse-der-vor--und-nachteile-in-der-website-entwicklung'},
+    
+    // Фреймворки и технологии
+    'flutter': {de: '/blog/flutterflow-vs-flutter-vergleich-der-entwicklungsframeworks', en: '/en/blog/flutterflow-vs-flutter-vergleich-der-entwicklungsframeworks'},
+    'pwa': {de: '/blog/the-abcs-of-pwa-exploring-features-that-transform-web-experiences', en: '/en/blog/the-abcs-of-pwa-exploring-features-that-transform-web-experiences'},
+    
+    // AI и GPT
+    'gpt': {de: '/blog/best-business-ideas-based-on-gpt-3-5-4', en: '/en/blog/best-business-ideas-based-on-gpt-3-5-4'},
+    'chatgpt': {de: '/blog/best-business-ideas-based-on-gpt-3-5-4', en: '/en/blog/best-business-ideas-based-on-gpt-3-5-4'},
+    
+    // Стандарты и сертификации
+    'hipaa': {de: '/blog/5-considerations-for-building-hipaa-compliant-app', en: '/en/blog/5-considerations-for-building-hipaa-compliant-app'},
+    'gdpr': {de: '/blog/is-bubble-io-gdpr-compliant', en: '/en/blog/is-bubble-io-gdpr-compliant'},
   };
 
   function detectLanguage() {
